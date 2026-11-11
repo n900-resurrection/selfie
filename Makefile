@@ -2,4 +2,5 @@
 override APP     := selfie
 VERSION ?= 0.6
 DEPS    := hildonlite
+ICON_OUT := icons/64.png          # the file make-icon.sh writes; without it make redraws the icons on every run
 include ../../mk/app.mk
