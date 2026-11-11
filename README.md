@@ -18,3 +18,7 @@ Inside the N900 repository (uses `mk/app.mk`):
 
 Depends on `python3.11`, `python3-hildonlite`, `gstreamer0.10-plugins-camera`, `libomap3cam`.
 `make-icon.sh` regenerates the icons.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
